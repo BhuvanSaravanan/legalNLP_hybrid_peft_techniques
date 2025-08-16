@@ -1,0 +1,7 @@
+datasets
+torch_struct
+pytorch-crf
+ipywidgets
+bitsandbytes
+peft
+nltk
